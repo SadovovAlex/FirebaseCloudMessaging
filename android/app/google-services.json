@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132210475600",
+    "firebase_url": "https://mtspushservice.firebaseio.com",
+    "project_id": "mtspushservice",
+    "storage_bucket": "mtspushservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132210475600:android:b931fc426f2a4546d30755",
+        "android_client_info": {
+          "package_name": "com.example.march_1_firebase_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132210475600-ildo9af8b99tqc8a7kmpqdeqccon20be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UnTtH70WROrRyHRpXUILyLY878nJAgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132210475600-ildo9af8b99tqc8a7kmpqdeqccon20be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
