@@ -1,0 +1,4 @@
+#Sun Sep 15 21:59:30 MSK 2019
+base.0=C\:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

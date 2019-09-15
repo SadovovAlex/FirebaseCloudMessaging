@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f4628b07ef76814b7912f71f2680dab2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f4628b07ef76814b7912f71f2680dab2\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f4628b07ef76814b7912f71f2680dab2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f4628b07ef76814b7912f71f2680dab2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9b78f3053e4bff79c77b0082e6a4e7f3\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\PROGRAMMING\\MOBILE_APP\\FirebaseCloudMessaging\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f4628b07ef76814b7912f71f2680dab2\\res\\layout\\notification_action.xml"
+    }
+]

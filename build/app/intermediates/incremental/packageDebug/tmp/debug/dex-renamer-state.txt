@@ -1,0 +1,4 @@
+#Sun Sep 15 09:07:35 MSK 2019
+base.0=C\:\\PROGRAMMING\\MOBILE_APP\\FlutterFCM\\firebase_messaging\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

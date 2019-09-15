@@ -21,6 +21,12 @@ class _MessagingWidgetState extends State<MessagingWidget> {
 
     _firebaseMessaging.getToken().then((token){
     print("Token:" + token);
+        setState(() {
+          messages.add(Message(
+            title: 'token',
+            body: token,
+          ));
+        });
     });
 
     //_firebaseMessaging.subscribeToTopic('all');
@@ -32,7 +38,8 @@ class _MessagingWidgetState extends State<MessagingWidget> {
         final notification = message['notification'];
         setState(() {
           messages.add(Message(
-              title: notification['title'], body: notification['body']));
+              title: notification['title'], 
+              body: notification['body']));
         });
       },
       onLaunch: (Map<String, dynamic> message) async {
